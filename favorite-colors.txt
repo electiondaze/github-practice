@@ -1,0 +1,6 @@
+/* CSS HEX */
+--amaranth-purple: #a30b37ff;
+--old-rose: #bd6b73ff;
+--periwinkle: #bbb6dfff;
+--periwinkle-2: #c6c8eeff;
+--white: #fcfcffff;
